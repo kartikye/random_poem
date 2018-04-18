@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.2
 Name: random-poem
 Version: 1.0
 Summary: Returns a random poem from poetry foundation
@@ -8,3 +8,4 @@ Author-email: kartikye.mittal+random_poem@gmail.com
 License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
+Requires-Python: >=3

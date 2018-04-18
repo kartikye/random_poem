@@ -1,3 +1,7 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
 setup.py
 random_poem/__init__.py
 random_poem.egg-info/PKG-INFO

@@ -9,6 +9,7 @@ setup(name='random_poem',
     license='MIT',
     packages=['random_poem'],
     zip_safe=False,
+    python_requires='>=3',
     install_requires=[
 		'beautifulsoup4',
 		'requests'
