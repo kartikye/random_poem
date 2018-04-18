@@ -30,6 +30,6 @@ def get_poem(count = 0):
 		return poem
 	except:
 		if count < 3:
-			get_poem(count+1)
-
-print(get_poem())
+			return get_poem(count+1)
+		else:
+			return None
